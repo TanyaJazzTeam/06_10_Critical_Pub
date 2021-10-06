@@ -3,8 +3,6 @@
 
 ## 在开始之前
 
-# 111111
-
 在向 TensorFlow 项目贡献源代码之前，请查看项目的 GitHub 存储库中的`CONTRIBUTING.md` （例如，查看 [核心 TensorFlow 存储库](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md)的 CONTRIBUTING.md 文件。）所有代码贡献者都必须签署[贡献者许可协议](https://cla.developers.google.com/clas)(CLA)。
 
 ## 一般原则
