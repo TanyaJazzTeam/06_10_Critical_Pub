@@ -1,4 +1,3 @@
-# TensorFlow 测试最佳实践
 
 [这些是在 TensorFlow 存储库中](https://github.com/tensorflow/tensorflow)测试代码的推荐做法。
 
