@@ -1,6 +1,3 @@
-#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
-msgid " "
-msgstr " "
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
